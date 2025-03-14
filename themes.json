@@ -1,6 +1,6 @@
 {
     "selenite": {
-        "--input-bg-color": "#74747488",
+        "--input-bg-color": "#74747488", 
         "--main-text-color": "#dadada",
         "--p-text-color": "#a1a1a1",
         "--border-color": "#979797bb",
